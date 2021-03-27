@@ -1,0 +1,530 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"tex",
+				"text-shadow\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"r",
+				"rgba()\tbackground-color"
+			],
+			[
+				"f",
+				"fieldset\tTag"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"inline",
+				"inline\tdisplay"
+			],
+			[
+				"max",
+				"max\tAttr"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"s",
+				"section\tTag"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"open",
+				"openmodal"
+			],
+			[
+				"bordr",
+				"border-radius\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"ima",
+				"imagens"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"list",
+				"list-style-position\tproperty"
+			],
+			[
+				"upper",
+				"upper-armenian\tlist-style-type"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"Com",
+				"COMENTÁRIOS"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"cel",
+				"cellpadding\tAttr"
+			],
+			[
+				"cell",
+				"cellpadding\tAttr"
+			],
+			[
+				"uppe",
+				"upper-roman\tlist-style-type"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground"
+			],
+			[
+				"ht",
+				"HTML5"
+			],
+			[
+				"es",
+				"ESTUDOS"
+			],
+			[
+				"border",
+				"border-collapse\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"align",
+				"align-self\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"borde",
+				"border-color\tproperty"
+			],
+			[
+				"a",
+				"align-self\tproperty"
+			],
+			[
+				"fra",
+				"frame\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"_",
+				"_css"
+			],
+			[
+				"da",
+				"datalist\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"e",
+				"E-mail"
+			],
+			[
+				"v",
+				"video\tTag"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"g",
+				"google-glass"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"lampa",
+				"lampada-quebrada"
+			],
+			[
+				"lam",
+				"lampada-apagada"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"lampada-a",
+				"lampada-apagada"
+			],
+			[
+				"lamp",
+				"lampada-quebrada"
+			],
+			[
+				"acen",
+				"acendeLampada"
+			],
+			[
+				"margin-",
+				"margin-right\tproperty"
+			],
+			[
+				"text-",
+				"text-decoration\tproperty"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"b",
+				"black"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/ESTUDOS/HTML5/Curso Udemy/Projeto 1/Libery/css/orlando.css",
+		"/D/ESTUDOS/HTML5/Curso Udemy/Projeto 1/css/orlando.css",
+		"/D/Área de Trabalho/teste.html",
+		"/D/ESTUDOS/HTML5/Curso Udemy/Projeto 1/index - Copia.html",
+		"/D/ESTUDOS/HTML5/Curso Udemy/Projeto 1/css/Burro.css",
+		"/D/ESTUDOS/HTML5/Curso Udemy/Projeto 1/index.html",
+		"/D/ESTUDOS/HTML5/Curso Udemy/Projeto 1/Libery/css/Orlando.css",
+		"/D/ESTUDOS/HTML5/Curso Udemy/Projeto 1/Jquery/jquery.js",
+		"/D/ESTUDOS/HTML5/Curso Udemy/formulario.html",
+		"/D/ESTUDOS/HTML5/Curso Udemy/bootstrap/css/bootstrap.css",
+		"/D/ESTUDOS/HTML5/Curso Udemy/bootstrap/bootstrap.html",
+		"/D/ESTUDOS/HTML5/Curso Udemy/index.html",
+		"/D/ESTUDOS/HTML5/Curso Udemy/css/stylesheet.css",
+		"/D/ESTUDOS/HTML5/Curso Udemy/js/script.js",
+		"/D/ESTUDOS/HTML5/Curso Udemy/bootstrap.html",
+		"/D/ESTUDOS/HTML5/Fundação Bradesco/Site Final/index.html",
+		"/D/ESTUDOS/HTML5/Fundação Bradesco/Site Final/CSS/stylesheet.css",
+		"/D/ESTUDOS/HTML5/Fundação Bradesco/Curso Udemy/modelo/modelo.html",
+		"/D/ESTUDOS/HTML5/Fundação Bradesco/testes/index.html",
+		"/D/Área de Trabalho/html.html",
+		"/D/ESTUDOS/HTML5/Fundação Bradesco/testes/stylecheet.css",
+		"/D/ESTUDOS/HTML5/Fundação Bradesco/index.html",
+		"/D/ESTUDOS/HTML5/Fundação Bradesco/stylecheet.css",
+		"/D/ESTUDOS/HTML5/Fundação Bradesco/arquivoHTML.html",
+		"/D/ESTUDOS/HTML5/Fundação Bradesco/staile.css",
+		"/D/ESTUDOS/HTML5/Fundação Bradesco/testHTML.html",
+		"/D/ESTUDOS/HTML5/projeto-glass-html5/fale-conosco.html",
+		"/D/ESTUDOS/HTML5/Fundação Bradesco/ultimaaula.html",
+		"/D/ESTUDOS/HTML5/Fundação Bradesco/frametake2.html",
+		"/D/ESTUDOS/HTML5/Fundação Bradesco/frames.html",
+		"/D/Área de Trabalho/Exerc1.html",
+		"/D/ESTUDOS/HTML5/Fundação Bradesco/exercise3.html",
+		"/D/ESTUDOS/HTML5/Fundação Bradesco/exercise5.html",
+		"/D/ESTUDOS/HTML5/Fundação Bradesco/exercise1avancado.html",
+		"/D/ESTUDOS/HTML5/Fundação Bradesco/exercise1.html",
+		"/D/Área de Trabalho/exercise02.html",
+		"/D/Área de Trabalho/desespero",
+		"/D/Área de Trabalho/HTML5/projeto-glass-html5/fale-conosco.html",
+		"/D/Área de Trabalho/HTML5/projeto-glass-html5/_css/form.css",
+		"/D/Área de Trabalho/HTML5/projeto-glass-html5/_javascript/funcoes.js",
+		"/D/Área de Trabalho/HTML5/projeto-glass-html5/index.html",
+		"/D/Área de Trabalho/HTML5/projeto-glass-html5/_css/media.css",
+		"/D/Área de Trabalho/HTML5/projeto-glass-html5/multimidia.html",
+		"/D/Área de Trabalho/HTML5/projeto-glass-html5/fotos.html",
+		"/D/Área de Trabalho/HTML5/projeto-glass-html5/_css/fotos.css",
+		"/D/Área de Trabalho/HTML5/projeto-glass-html5/specs.html",
+		"/D/Área de Trabalho/HTML5/projeto-glass-html5/_css/specs.css",
+		"/D/Área de Trabalho/HTML5/projeto-glass-html5/_css/estilo.css",
+		"/D/Área de Trabalho/HTML5/projeto-glass-html5/google-glass.html",
+		"/D/Área de Trabalho/HTML5/projeto-glass-html5/teste-java-2.html",
+		"/D/Área de Trabalho/HTML5/projeto-glass-html5/teste-java.html",
+		"/D/Área de Trabalho/HTML5/projeto-glass-html5/teste",
+		"/D/Área de Trabalho/HTML5/projeto-glass-html5/test",
+		"/D/Área de Trabalho/HTML5/maldicao/maldicao.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fale-conosco.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
